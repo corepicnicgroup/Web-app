@@ -1,0 +1,21 @@
+{
+  "MAIN_CONTRACT_ADDRESS": "0x626B5ED13081A36dAa601D7084902D73BcA98858",
+  "CONTRACT_ADDRESS": "0x418210b6B062999777DE53030C5809231aE6E807",
+  "SCAN_LINK": "https://goerli.etherscan.io/address/0x418210b6b062999777de53030c5809231ae6e807",
+  "NETWORK": {
+    "NAME": "Goerli",
+    "SYMBOL": "ETH",
+    "ID": 5
+  },
+  "NFT_NAME": "Picnic NFT",
+  "SYMBOL": "NFT",
+  "MAX_SUPPLY": 8787,
+  "WEI_COST": 30000000000000000,
+  "ETH_COST": 0.03,
+  "DISPLAY_COST": 0.03,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/saket",
+  "TRANSACTION_LINK": "https://goerli.etherscan.io/address/0x418210b6b062999777de53030c5809231ae6e807",
+  "SHOW_BACKGROUND": true
+}
