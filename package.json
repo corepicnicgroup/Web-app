@@ -1,0 +1,39 @@
+{
+    "name": "picnic",
+    "version": "1.0.0",
+    "description": "Picnic Backend",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js",
+        "dev": "nodemon ./server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://gitlab.com/picnic/picnic.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://gitlab.com/picnic/picnic/issues"
+    },
+    "homepage": "https://gitlab.com/picnic/picnic#readme",
+    "dependencies": {
+        "api": "^3.3.0",
+        "axios": "^1.3.6",
+        "bcrypt": "^5.1.0",
+        "body-parser": "^1.19.0",
+        "cookie-parser": "^1.4.5",
+        "core-js": "^3.15.2",
+        "cors": "^2.8.5",
+        "cron": "^1.8.2",
+        "dotenv": "^10.0.0",
+        "express": "^4.17.1",
+        "express-session": "^1.17.2",
+        "isset": "^1.0.4",
+        "moment": "^2.29.4",
+        "mongodb": "^4.1.1",
+        "node-cron": "^3.0.0",
+        "path": "^0.12.7"
+    },
+    "type": "module"
+}
